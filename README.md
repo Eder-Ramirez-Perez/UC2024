@@ -15,4 +15,7 @@ Analisis de lo que se está realizando en las *ventas a traves de los meses del 
 1. La mayor venta se presento en el mes de febrero.
 2. Posteriormente a Junio se observa un decrecimiento de ventas en hogares en el estado de Valencia. 
 
-![442d0e69-6716-420c-a8a9-75f580a5a5d7](https://github.com/user-attachments/assets/f82261d5-8ba6-4955-9985-bc6cda01935a)
+<img src="![442d0e69-6716-420c-a8a9-75f580a5a5d7](https://github.com/user-attachments/assets/885f6df5-1ea7-48e8-b4dd-7d80f75ea4b3)" width="200"/>
+
+
+
